@@ -8,7 +8,6 @@ If you discover a security issue **do not open a public GitHub issue**. Use one 
 
 | Channel | Use it for |
 |---|---|
-| **Email**: [`security@libermall.com`](mailto:security@libermall.com) | Most reports. PGP key on request. |
 | **GitHub Security Advisory** | Private coordinated disclosure via the *Security* tab. |
 | **Telegram** to [@LibermallIDbot](https://t.me/LibermallIDbot) → `/security` | Quick disclosure with screenshots. |
 
@@ -24,7 +23,7 @@ In scope:
 Out of scope:
 
 - The production Libermall marketplace at [`libermall.com`](https://libermall.com) — report to the global Libermall security contact instead
-- The on-chain marketplace contracts — report to [`LiberMall/Contracts`](https://github.com/LiberMall/Contracts) or `security@libermall.com`
+- The on-chain marketplace contracts — report to [`LiberMall/Contracts`](https://github.com/LiberMall/Contracts) (private GitHub Security Advisory)
 - Forks of this front-end under other accounts — please report to fork owners directly
 
 ## Safe-harbor

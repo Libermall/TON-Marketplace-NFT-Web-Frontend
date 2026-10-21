@@ -106,8 +106,7 @@ Issues and PRs welcome — especially around accessibility, mobile rendering, an
 
 ## Contact
 
-- General: [`hello@libermall.com`](mailto:hello@libermall.com)
-- Security: [`security@libermall.com`](mailto:security@libermall.com)
+- Security: private GitHub Security Advisory (Security tab)
 
 ---
 
